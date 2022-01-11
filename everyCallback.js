@@ -3,7 +3,7 @@ function isEven(element) {
   return element % 2 === 0;
 }
 
-// Variable way of creating a function
+// Variable way of creating a function  
 var isEven2 = function (element) {
   return element % 2 === 0;
 };
