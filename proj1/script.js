@@ -10,5 +10,5 @@ setInterval(() => {
 }, 1);
 
 setTimeout(() => {
-    followers.innerHTML = "Your Instagram followers"
+    followers.innerHTML = "Your Instagram followers!"
 }, 4000);
