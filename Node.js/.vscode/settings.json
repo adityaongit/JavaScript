@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "Menlo, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 35,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "material-product-icons",
+    "workbench.colorTheme": "Default Dark+"
+}
